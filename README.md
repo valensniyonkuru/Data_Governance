@@ -95,25 +95,4 @@ Six key corrections identified and annotated:
 7. **Transparency**: Decision logging with explanations and human review for borderline cases
 8. **Data Protection**: Masking/anonymization in analytics and secure handling of PII
 
-## 📚 Legal Framework
 
-This review is conducted in compliance with:
-- **Ghana's Data Protection Act, 2012 (Act 843)**
-- Core principles: Lawfulness, Data Minimization, Purpose Limitation, Storage Limitation, Accuracy, Integrity & Confidentiality
-
-## 👤 Author
-
-**Niyonkuru Valens**  
-Independent Data Governance Consultant
-
-## 📄 License
-
-This project is for educational and professional purposes.
-
-## 🔗 Repository
-
-[GitHub Repository](https://github.com/valensniyonkuru/Data_Governance.git)
-
----
-
-*Last Updated: February 2026*
