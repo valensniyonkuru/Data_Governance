@@ -58,7 +58,7 @@ FAPR = (minimum approval rate across groups) / (maximum approval rate across gro
 Data_Governance/
 ├── README.md                                    # This file
 ├── quickloan_governance_lab_answers.md         # Complete lab answers (Markdown format)
-└── quickloan_governance_lab_answers.txt        # Complete lab answers (Text format)
+
 ```
 
 ## 📝 Deliverables
