@@ -1,11 +1,11 @@
 
 # QuickLoan Mobile Ethical Data Review
 
-## 📋 Project Overview
+##  Project Overview
 
 This repository contains a comprehensive data governance review for **QuickLoan Mobile**, a fast-growing fintech startup based in Ghana that offers instant micro-loans via a mobile app. The review was conducted as an independent data governance consultant to identify and address serious concerns about their data practices, specifically around Governance, Quality, and Ethics.
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 This project demonstrates the ability to:
 
@@ -22,7 +22,7 @@ This project demonstrates the ability to:
 
 3. **Drive Ethical Practice**: Recommend practical, ethical reporting metrics to ensure transparency in automated decision-making processes.
 
-## 🔍 Key Findings
+##  Key Findings
 
 ### Data Quality Risk
 - Core loan fields are often missing or inconsistently formatted
@@ -41,7 +41,7 @@ This project demonstrates the ability to:
 - No monitoring of approval outcomes by demographic groups
 - Risk of disparate impact on vulnerable groups (rural residents, women, informal workers)
 
-## 📊 Proposed Solution: Fair Approval Parity Ratio (FAPR)
+##  Proposed Solution: Fair Approval Parity Ratio (FAPR)
 
 **Metric Definition**: 
 ```
@@ -52,7 +52,7 @@ FAPR = (minimum approval rate across groups) / (maximum approval rate across gro
 
 **Visualization**: Grouped bar chart or time-series line chart with threshold indicators (e.g., 0.8) to flag when parity drops to risky levels.
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 Data_Governance/
@@ -61,7 +61,7 @@ Data_Governance/
 
 ```
 
-## 📝 Deliverables
+##  Deliverables
 
 ### Deliverable 1: Governance Review Card
 Complete analysis of three distinct risk findings:
@@ -84,7 +84,7 @@ Six key corrections identified and annotated:
 - How Data Lifecycle and Classification principles were used to identify risks
 - How the proposed FAPR metric ensures ethical and transparent governance
 
-## 🔧 Key Recommendations
+##  Key Recommendations
 
 1. **Data Minimization**: Collect only necessary data for credit scoring
 2. **Consent Management**: Implement explicit, granular opt-in consent with audit logs
